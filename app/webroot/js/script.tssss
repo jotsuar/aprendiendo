@@ -1,0 +1,6 @@
+import { StatLat } from "./custom.js"
+
+
+jQuery(document).ready(function ($) {
+    var statlat = new StatLat($);
+});

@@ -1,0 +1,145 @@
+msgid "Topics"
+msgstr "Temas de interés"
+
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Font Name"
+msgstr "Fuente"
+
+msgid "Font Url"
+msgstr "Url fuente"
+
+msgid "Font Age"
+msgstr "Año fuente"
+
+msgid "Font_age"
+msgstr "Año fuente"
+
+msgid "Font_name"
+msgstr "Fuente"
+
+msgid "Font_url"
+msgstr "Url fuente"
+
+msgid "Sectors"
+msgstr "Sectores económicos"
+
+msgid "Sub Sectors"
+msgstr "Sub-Sectores económicos"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "View file"
+msgstr "Ver archivo"
+
+msgid "Public"
+msgstr "Publico"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Gender"
+msgstr "Género"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Customers"
+msgstr "Clientes"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
